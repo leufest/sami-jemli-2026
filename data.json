@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "titre": "Réinventer l'eau chaude",
+    "date": "2024 et 2025",
+    "mots_cles": ["diplôme", "outil", "dessin"],
+    "description": "Tout professionnel a un jour été confronté à l'utilisation d'un logiciel Adobe. Il a aussi été formé à leur utilisation, le rendant dépendant dans sa vie professionnelle. Cependant, ces logiciels ne sont pas ancrés dans les valeurs du « libre ». Celles-ci prônent la liberté d'utilisation, de distribution, de modification et de distribution des copies modifiées. Or, lorsque l'on ne peut ni modifier ni adapter notre outil, les formes sont contraintes et tendent à se standardiser. Ce diplôme est une recherche de réappropriation d'outils de dessin, notamment autour du pantographe et du plotter.",
+    "figures": [
+      "figures/diplome/invitation.png",
+      "figures/diplome/compositions_gifs.gif",
+      "figures/diplome/photo_1.JPG",
+      "figures/diplome/photo_2.JPG",
+      "figures/diplome/photo_3.JPG",
+      "figures/diplome/photo_4.JPG",
+      "figures/diplome/photo_5.png",
+      "figures/diplome/photo_6.png",
+      "figures/diplome/photo_7.png",
+      "figures/diplome/photo_8.png",
+      "figures/diplome/photo_9.png",
+      "figures/diplome/photo_10.png"
+    ]
+  },
+  {
+    "id": 2,
+    "titre": "Constitutions Tunisiennes",
+    "date": "2022",
+    "mots_cles": ["édition", "impression", "risographie"],
+    "description": "Réalisation d'une édition superposant les trois différentes Constitutions de la Tunisie. Un système de lecture permet de mettre en avant les termes divergents dans l'évolution des articles ; ce qui permet l'observation des changements sociaux, politiques et culturels.",
+    "figures": [
+      "figures/constitutions_tunisienne/photo1.png",
+      "figures/constitutions_tunisienne/photo2.png",
+      "figures/constitutions_tunisienne/photo3.png",
+      "figures/constitutions_tunisienne/photo4.png",
+      "figures/constitutions_tunisienne/photo5.png",
+      "figures/constitutions_tunisienne/photo6.png"
+    ]
+  },
+  {
+    "id": 3,
+    "titre": "Édition sur le dé",
+    "date": "2024",
+    "mots_cles": ["édition", "impression", "risographie", "dessin"],
+    "description": "Cette édition est la matérialisation de mes difficultés à prendre des décisions. Au départ de ce projet, j'ai confectionné un dé à dix faces permettant de guider mes choix. J'ai voulu appliquer ce principe d'indécision dans le tracé de ces dessins. Par moments je suis le cadre donné, tandis qu'à d'autres je m'en éloigne.",
+    "figures": [
+      "figures/de/photo_1.png",
+      "figures/de/photo_2.png",
+      "figures/de/photo_3.png",
+      "figures/de/photo_4.png",
+      "figures/de/photo_5.png",
+      "figures/de/photo_6.png",
+      "figures/de/photo_7.png",
+      "figures/de/photo_8.png"
+    ]
+  },
+  {
+    "id": 4,
+    "titre": "Archive de films sud-coréens",
+    "date": "2023",
+    "mots_cles": ["archive", "web"],
+    "description": "Travail de groupe réalisé dans le cadre de mon échange étudiant à PaTI (Paju Typography Institute) en Corée du Sud. Sur la base de l'archive de la KOFA (Korean Film Archive), nous avons créé une archive des films expérimentaux coréens réalisés entre 1919 et 1979.",
+    "figures": [
+      "figures/archive_films_coreens/photo1.png",
+      "figures/archive_films_coreens/photo2.png",
+      "figures/archive_films_coreens/photo3.png",
+      "figures/archive_films_coreens/photo4.png",
+      "figures/archive_films_coreens/photo5.png",
+      "figures/archive_films_coreens/photo6.png",
+      "figures/archive_films_coreens/photo7.png"
+    ]
+  },
+  {
+    "id": 5,
+    "titre": "Calendrier du Conservatoire d'espaces naturels d'Alsace",
+    "date": "2025",
+    "mots_cles": ["impression", "offset", "édition"],
+    "description": "Avec Iona Sagnelonge, nous avons pu réaliser le calendrier du programme des activités 2026 du conservatoire. La mise en forme reprend l'identité qu'elle a pu réaliser lors de son stage dans la structure.",
+    "figures": [
+      "figures/calendrier_conservatoire/mockup_recto.png",
+      "figures/calendrier_conservatoire/mockup_verso.png",
+      "figures/calendrier_conservatoire/photo_1.png",
+      "figures/calendrier_conservatoire/photo_2.png",
+      "figures/calendrier_conservatoire/photo_3.png",
+      "figures/calendrier_conservatoire/photo_4.png",
+      "figures/calendrier_conservatoire/photo_5.png",
+      "figures/calendrier_conservatoire/photo_6.png",
+      "figures/calendrier_conservatoire/photo_7.png",
+      "figures/calendrier_conservatoire/photo_8.png",
+      "figures/calendrier_conservatoire/photo_9.png",
+      "figures/calendrier_conservatoire/photo_10.png",
+      "figures/calendrier_conservatoire/photo_11.png"
+    ]
+  },
+  {
+    "id": 6,
+    "titre": "Ateliers Geeks",
+    "date": "2024 à 2026",
+    "mots_cles": ["pédagogique", "web", "association"],
+    "description": "« Ateliers Geeks » est une association qui organise des cours créatifs liés à la culture numérique pour un public de 6 à 18 ans. J'encadre plusieurs de ces ateliers, notamment sur les thématiques du web, de l'ASCII et des outils de dessin.",
+    "figures": [
+      "figures/ateliers_geeks/photo_1.jpg",
+      "figures/ateliers_geeks/photo_2.jpg",
+      "figures/ateliers_geeks/photo_4.png",
+      "figures/ateliers_geeks/photo_5.png",
+      "figures/ateliers_geeks/photo_6.png",
+      "figures/ateliers_geeks/photo_7.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "titre": "Identité de l'athlète Dick Fosbury",
+    "date": "2022",
+    "mots_cles": ["identité visuelle", "dessin"],
+    "description": "Réalisation d'une identité visuelle de Dick Fosbury, inventeur du Fosbury-flop et détenteur du record olympique du saut en hauteur pendant huit ans.",
+    "figures": [
+      "figures/dick_fosbury/photo1.png",
+      "figures/dick_fosbury/photo2.png",
+      "figures/dick_fosbury/photo3.png",
+      "figures/dick_fosbury/photo4.png"
+    ]
+  },
+  {
+    "id": 9,
+    "titre": "HÉROS",
+    "date": "2020",
+    "mots_cles": ["édition", "leporello", "impression"],
+    "description": "Livre-jeu dans lequel vous affrontez le narrateur. Face à des dilemmes, la bonne réponse évidente ne sera pas forcément la bonne. Le narrateur se languira de vos erreurs.",
+    "figures": [
+      "figures/heros/photo2.png",
+      "figures/heros/photo1.png",
+      "figures/heros/photo3.png",
+      "figures/heros/photo4.png",
+      "figures/heros/photo5.png",
+      "figures/heros/photo6.png",
+      "figures/heros/photo7.png",
+      "figures/heros/photo8.png"
+    ]
+  },
+  {
+    "id": 10,
+    "titre": "Les choses en rond",
+    "date": "2023",
+    "mots_cles": ["édition", "reliure", "illustration", "risographie"],
+    "description": "Édition réalisée dans le cadre de mon échange étudiant à PaTI (Paju Typography Institute) en Corée du Sud. J'ai expérimenté une reliure pour relier mes dessins en dépliant les pages.",
+    "figures": [
+      "figures/les_choses_en_rond/photo1.JPG",
+      "figures/les_choses_en_rond/photo2.JPG",
+      "figures/les_choses_en_rond/photo3.JPG",
+      "figures/les_choses_en_rond/photo4.JPG",
+      "figures/les_choses_en_rond/photo5.JPG",
+      "figures/les_choses_en_rond/photo6.JPG",
+      "figures/les_choses_en_rond/photo7.JPG"
+    ]
+  },
+  {
+    "id": 11,
+    "titre": "Spécimen Clarendon",
+    "date": "2021",
+    "mots_cles": ["typographie", "édition", "sérigraphie"],
+    "description": "Analyse historique et technique de la « Clarendon » et mise en forme imprimée retranscrivant le spécimen. Après analyse de la Clarendon, j'ai voulu en extrapoler un aspect dans un livret affiche ; les majuscules se rentrent dedans.",
+    "figures": [
+      "figures/specimen_clarendon/photo1.JPG",
+      "figures/specimen_clarendon/photo2.JPG",
+      "figures/specimen_clarendon/photo3.JPG",
+      "figures/specimen_clarendon/photo4.JPG",
+      "figures/specimen_clarendon/photo5.JPG",
+      "figures/specimen_clarendon/photo1_2.png",
+      "figures/specimen_clarendon/photo2_2.png",
+      "figures/specimen_clarendon/photo3_2.png",
+      "figures/specimen_clarendon/photo4_2.png",
+      "figures/specimen_clarendon/photo5_2.png",
+      "figures/specimen_clarendon/photo6_2.png",
+      "figures/specimen_clarendon/photo7_2.png"
+    ]
+  },
+  {
+    "id": 12,
+    "titre": "Ultimate",
+    "date": "2021",
+    "mots_cles": ["édition", "mise en page", "impression"],
+    "description": "Mise en page des règles officielles d'Ultimate de 2017 (frisbee), au format proportionnel d'un vrai terrain d'Ultimate.",
+    "figures": [
+      "figures/ultimate/photo1.png",
+      "figures/ultimate/photo2.png",
+      "figures/ultimate/photo3.png",
+      "figures/ultimate/photo4.png",
+      "figures/ultimate/photo5.png",
+      "figures/ultimate/photo6.png",
+      "figures/ultimate/photo7.png"
+    ]
+  },
+  {
+    "id": 13,
+    "titre": "Archive Whole Web Catalog",
+    "date": "2025",
+    "mots_cles": ["web", "archive"],
+    "description": "Dans le cadre d'un stage au studio kiösk et avec Benoît Montigné, j'ai conçu la maquette d'un site. Il archive les différents médias d'un projet pédagogique réalisé par les étudiant.e.s de l'ENSAD sur des thématiques liées au numérique.",
+    "figures": [
+      "figures/archive_wwc/site_archive_wwc.png",
+      "figures/archive_wwc/site_archive_wwc2.png",
+      "figures/archive_wwc/site_archive_wwc3.png",
+      "figures/archive_wwc/site_archive_wwc5.png",
+      "figures/archive_wwc/site_archive_wwc6.png",
+      "figures/archive_wwc/site_archive_wwc7.png",
+      "figures/archive_wwc/site_archive_wwc8.png",
+      "figures/archive_wwc/site_archive_wwc9.png",
+      "figures/archive_wwc/site_archive_wwc10.png",
+      "figures/archive_wwc/site_archive_wwc11.png"
+    ]
+  }
+]
