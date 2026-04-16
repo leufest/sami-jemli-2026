@@ -4,10 +4,10 @@
     "titre": "Réinventer l'eau chaude",
     "date": "2024 et 2025",
     "mots_cles": ["diplôme", "outil", "dessin"],
-    "description": "Tout professionnel a un jour été confronté à l'utilisation d'un logiciel Adobe. Il a aussi été formé à leur utilisation, le rendant dépendant dans sa vie professionnelle. Cependant, ces logiciels ne sont pas ancrés dans les valeurs du « libre ». Celles-ci prônent la liberté d'utilisation, de distribution, de modification et de distribution des copies modifiées. Or, lorsque l'on ne peut ni modifier ni adapter notre outil, les formes sont contraintes et tendent à se standardiser. Ce diplôme est une recherche de réappropriation d'outils de dessin, notamment autour du pantographe et du plotter.",
+    "description": "La professionalisation du design graphique passe aujourd'hui beaucoup par l'apprentissage des logiciels adobe. Cependant, ces logiciels ne sont pas ancrés dans les valeurs du libre. Celles-ci prônent la liberté d'utilisation, de distribution, de modification et de distribution des copies modifiées. Or, lorsque l'on ne peut ni modifier ni adapter notre outil, les formes sont contraintes et tendent à se standardiser. Ce diplôme est une recherche de réappropriation d'outils de dessin, notamment autour du pantographe et du plotter.",
     "figures": [
       "figures/diplome/invitation.webp",
-      "figures/diplome/compositions_gifs.webp",
+      "figures/diplome/compositions_gifs.gif",
       "figures/diplome/photo_1.webp",
       "figures/diplome/photo_2.webp",
       "figures/diplome/photo_3.webp",
@@ -25,7 +25,7 @@
     "titre": "Constitutions Tunisiennes",
     "date": "2022",
     "mots_cles": ["édition", "impression", "risographie"],
-    "description": "Réalisation d'une édition superposant les trois différentes Constitutions de la Tunisie. Un système de lecture permet de mettre en avant les termes divergents dans l'évolution des articles ; ce qui permet l'observation des changements sociaux, politiques et culturels.",
+    "description": "Réalisation d'une édition superposant les trois différentes Constitutions de la Tunisie. Un système de lecture permet de mettre en avant les termes divergents dans l'évolution des articles\u202F; ce qui permet l'observation des changements sociaux, politiques et culturels.",
     "figures": [
       "figures/constitutions_tunisienne/photo1.webp",
       "figures/constitutions_tunisienne/photo2.webp",
@@ -156,7 +156,7 @@
     "titre": "Spécimen Clarendon",
     "date": "2021",
     "mots_cles": ["typographie", "édition", "sérigraphie"],
-    "description": "Analyse historique et technique de la « Clarendon » et mise en forme imprimée retranscrivant le spécimen. Après analyse de la Clarendon, j'ai voulu en extrapoler un aspect dans un livret affiche; les majuscules se rentrent dedans.",
+    "description": "Analyse historique et technique de la « Clarendon » et mise en forme imprimée retranscrivant le spécimen. Après analyse de la Clarendon, j'ai voulu en extrapoler un aspect dans un livret affiche\u202F; les majuscules se rentrent dedans.",
     "figures": [
       "figures/specimen_clarendon/photo1.webp",
       "figures/specimen_clarendon/photo2.webp",
